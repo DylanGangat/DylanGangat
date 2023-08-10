@@ -2,11 +2,11 @@
 I'm a CodeSpace Academy student aspiring to become a front-end developer and create exciting projects!
 
 ## Current Projects
-> ✈️ [BargainTravels](https://bargaintravels.netlify.app/) - Allows you to get information for your next travel destination and you can also shop for our products.
+> ✈️ [BargainTravels](https://github.com/DylanGangat/BargainTravels) - Allows you to get information for your next travel destination and you can also shop for our products.
 
-> 👨‍💻 [dylancodes](https://dylancodes.netlify.app/) - Designed and developed a retro portfolio website.
+> 👨‍💻 [dylancodes](https://github.com/DylanGangat/DYLGAN162_FTO2304_GroupA_DylanGangat_ITW9_FinalDigitalResume) - Designed and developed a retro portfolio website.
 
-> 📚 [Book Connect](https://book-connect-app.netlify.app/) - An app to discover new books.
+> 📚 [Book Connect](https://github.com/DylanGangat/DYLGAN162_FTO2304_GroupA_DylanGangat_IWACapstone) - An app to discover new books.
 
 ## My Values
 🧠 Mindful Coding </br>
