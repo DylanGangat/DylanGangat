@@ -15,10 +15,10 @@ I'm a CodeSpace Academy student aspiring to become a front-end developer and cre
 🙌 Collaborative Spirit </br>
 
 ## Skills
-🎨 Frontend Development: HTML, CSS, JavaScript, React </br>
-📐 UI/UX Design: Wireframing </br>
-📚 Version Control: Git, GitHub </br>
-🧠 Problem-Solving: Analytical Thinking, Creative Solutions </br>
+- Frontend Development: HTML, CSS, JavaScript, React </br>
+- UI/UX Design: Wireframing </br>
+- Version Control: Git, GitHub </br>
+- Problem-Solving: Analytical Thinking, Creative Solutions </br>
 
 ## Hobbies
 ☕️ Code & Coffee </br>
