@@ -25,6 +25,7 @@ I'm a CodeSpace Academy student aspiring to become a front-end developer and cre
 🍿 Film buff </br>
 ✈️ Traveler </br>
 🤓 Proud Otaku </br>
+💖 Football (Liverpool FC) & F1 Fan </br>
 
 ## Connect with Me
 - [Portfolio](https://dylancodes.netlify.app/)
