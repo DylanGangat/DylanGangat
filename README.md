@@ -8,6 +8,8 @@ I'm a CodeSpace Academy student aspiring to become a front-end developer and cre
 
 > 📚 [Book Connect](https://github.com/DylanGangat/DYLGAN162_FTO2304_GroupA_DylanGangat_IWACapstone) - An app to discover new books.
 
+> 🎧 [Wavify](https://github.com/DylanGangat/DYLGAN162_FTO2304_GroupA_DylanGangat_PFCapstone.git) - A podcast app that allows users to log in, browse various podcast shows, play episodes, and track their favorite episodes. 
+
 ## My Values
 🧠 Mindful Coding </br>
 🖤 Expressive Creation </br>
